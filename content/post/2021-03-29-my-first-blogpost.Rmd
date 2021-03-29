@@ -1,0 +1,15 @@
+---
+title: "My first blogpost"
+author: Liam
+date: '2021-03-29'
+slug: my-first-blogpost
+categories: []
+tags: []
+---
+
+Hello world
+
+```{r}
+x <- 2+2
+print("hello again")
+```
